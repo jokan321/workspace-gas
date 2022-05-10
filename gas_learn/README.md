@@ -1,6 +1,9 @@
 # gas_learn
 
-A new Flutter project.
+通过谷歌app脚本来简单对GoogleSheet进行增删改查操作。
+flutter:2.10.4
+dart:2.16.2
+devTools:2.9.2
 
 ## Getting Started
 

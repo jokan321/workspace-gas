@@ -32,6 +32,8 @@ dependencies:
   dio: ^4.0.6
   get: ^4.6.1
   flutter_slidable: ^1.2.0
+  flutter_easyloading: ^3.0.3
+  dropdown_button2: ^1.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -59,6 +61,14 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - images/doraamonback.jpeg
+    - images/doraamonicon1.jpeg
+    - images/doraamonicon2.jpeg
+    - images/doraamonicon3.jpeg
+    - images/doraamonicon4.jpeg
+    - images/doraamonicon5.jpeg
+    - images/doraamonback2.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
